@@ -1,0 +1,14 @@
+:root{ 
+    ---azul: #0466c8ff;
+    --azul-fosco: #0353a4ff;
+    --azul-escuro: #023e7dff;
+    --azul-forte: #002855ff;
+    --azul-preto-2: #001845ff;
+    --preto-3: #001233ff;
+    --cinza-escuro: #33415cff;
+    --cinza-claro: #5c677dff;
+    --prata: #7d8597ff;
+    --branco-cinzento: #979dacff;}
+    body{ 
+        background-color: var(--cinza-claro);
+    }
